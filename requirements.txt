@@ -95,6 +95,7 @@ pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120460739/work
 parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 pathos==0.2.8
 pathspec==0.7.0
+patsy==0.5.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
@@ -151,6 +152,7 @@ sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_161192105
 sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-serializinghtml_1624451540180/work
 spyder @ file:///tmp/build/80754af9/spyder_1634576185399/work
 spyder-kernels @ file:///tmp/build/80754af9/spyder-kernels_1634236926649/work
+statsmodels @ file:///tmp/build/80754af9/statsmodels_1602280205159/work
 tenacity @ file:///tmp/build/80754af9/tenacity_1632756856731/work
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
